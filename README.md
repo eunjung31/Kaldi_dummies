@@ -1,3 +1,3 @@
 # Kaldi_dummies
 
-This is a practice for using Kaldi. I have followed the instructions on kaldi for dummies.
+Example scripts following Kaldi for dummies(https://kaldi-asr.org/doc/kaldi_for_dummies.html).
